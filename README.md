@@ -26,6 +26,10 @@ First, install the required Python libraries:
 ```
 pip install pynput cryptography pillow mss pyinstaller
 ```
+or
+```
+pip install -r requirements.txt
+```
 2️⃣ Run the Keylogger
 
 Run the script manually using:
