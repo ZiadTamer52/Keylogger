@@ -56,7 +56,7 @@ The .exe file will be in the dist/ folder.
 
 ---
 ## 🖼 Example Screenshot  
-![Keylogger Screenshot](screenshots/screenscreen.jpeg)
+![Keylogger Screenshot](Keylogger/screenshots/example.jpg)
 ---
 
 ## 🔒 Ethical Disclaimer
