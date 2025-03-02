@@ -21,8 +21,12 @@
 ## 🔧 Installation & Setup
 
 1️⃣ Install Dependencies
+ 
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/ZiadTamer52/Keylogger.git
 
-First, install the required Python libraries:
+2. install the required Python libraries:
 ```
 pip install pynput cryptography pillow mss pyinstaller
 ```
